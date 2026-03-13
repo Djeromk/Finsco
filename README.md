@@ -1,4 +1,4 @@
-# FinCount — Personal Finance Advisor
+# Finsco — Personal Finance Advisor
 
 > ⚠️ Этот документ является черновым (draft). Архитектура и фичи будут уточняться по мере разработки.
 
